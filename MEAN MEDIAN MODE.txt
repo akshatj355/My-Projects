@@ -1,4 +1,4 @@
- FINDING MEAN,MEDIAN,MODE
+// FINDING MEAN,MEDIAN,MODE
 
 #include <stdio.h>
 #include <string.h>
@@ -7,6 +7,7 @@
 
 int main() {
 int n,i,j;
+//Entering the Values
 scanf("%d",&n);
 int arr[n];
 float mean=0,median=0;
